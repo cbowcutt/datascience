@@ -1,2 +1,4 @@
+.gitignore
+*/**/.pyc
 decisiontree/DecisionTree.py
 data/*
